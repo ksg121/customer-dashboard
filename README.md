@@ -24,18 +24,18 @@ The application uses **mock data only**. No backend, database, or API integratio
 ---
 
 # 1. Technology Stack
+ 
+ Technology                       Purpose
 
-| Technology | Purpose |
-|---|---|
-| React | Frontend UI and component architecture |
-| Vite | Development server and production build |
-| JavaScript / JSX | Application logic |
-| React Router DOM | Client-side navigation |
-| Lucide React | Icons |
-| CSS | Styling and responsive layouts |
-| JavaScript Mock Data | Customers, dashboard and service requests |
-| Git / GitHub | Version control and source hosting |
-| GitHub Pages | Static deployment |
+   React                   Frontend UI and component architecture
+   Vite                    Development server and production build
+   JavaScript / JSX        Application logic
+   React Router DOM        Client-side navigation
+   Lucide React            Icons
+   CSS                     Styling and responsive layouts
+   JavaScript Mock Data    Customers, dashboard and service requests
+   GitHub                  Version control and source hosting
+   GitHub Pages            Static deployment
 
 ---
 
